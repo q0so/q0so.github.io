@@ -548,14 +548,6 @@
         .btn:hover::after {
             opacity: 0.5;
         }
-
-.minecraft-icon {
-  width: 32px;
-margin-right: 15px; 
-  height: 32px;
-  display: inline-block;
-}
-        
         @keyframes rgbLight {
             0% { background-position: 0% 50%; }
             50% { background-position: 100% 50%; }
