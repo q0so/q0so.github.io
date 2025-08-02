@@ -17,7 +17,7 @@
     },
       {
       "source": "/apps",
-      "destination": "d00.vercel.app",
+      "destination": "https://d00.vercel.app",
       "permanent": true
     }
   ]
