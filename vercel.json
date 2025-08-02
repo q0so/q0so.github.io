@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/git",
+      "destination": "https://github.com/q0so",
+      "permanent": true
+    },
+    {
+      "source": "/yt",
+      "destination": "https://youtube.com/@حظر",
+      "permanent": true
+    },
+        {
+      "source": "/mc",
+      "destination": "https://q0so.github.io/Free-Minecraft/",
+      "permanent": true
+    },
+      {
+      "source": "/apps,app",
+      "destination": "d00.vercel.app",
+      "permanent": true
+    }
+  ]
+}
