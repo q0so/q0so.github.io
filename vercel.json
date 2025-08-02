@@ -16,7 +16,7 @@
       "permanent": true
     },
       {
-      "source": "/apps,app",
+      "source": "/apps",
       "destination": "d00.vercel.app",
       "permanent": true
     }
